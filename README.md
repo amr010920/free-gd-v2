@@ -1,3 +1,3 @@
 # free-gd-v2
 version 2
-waring this game has alot of flashing light
+warning this game has alot of flashing light
